@@ -1,0 +1,7 @@
+NAME/VALUE PAIR:
+
+A NAME WHICH MAPS TO A UNIQUE VALUE
+
+The name may be defined more than once, but only can have one value in any given context.
+
+That value may be more name/value pairs.

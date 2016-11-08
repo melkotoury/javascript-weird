@@ -1,0 +1,17 @@
+SYNTAX PARSER:
+
+A PROGRAM THAT READS YOU CODE AND DETERMINES WHAT IT DOES AND IF ITS GRAMMAR IS VALID
+
+Your code isn't magic. Someone else wrote a program to translate it for the computer.
+
+LEXICAL ENVIROMENT:
+
+WHERE SOMETHING SITS PHYSICALLY IN THE CODE YOU WRITE
+
+"Lexical" means "having to do with words or grammar". A lexical enviroment exists in programming languages in which where you write something is important
+
+EXECUTION CONTEXT:
+
+A WRAPPER TO HELP MANAGE THE CODE THAT IS RUNNING
+
+There are lots of lexical enviroments. Which one is currently running is managed via execution contexts. It can con tain things beyond what you've written in your code.
